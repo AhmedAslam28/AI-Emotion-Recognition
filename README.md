@@ -40,4 +40,14 @@ This project integrates an end-to-end emotion recognition system using a combina
   - Streamlit
   - Google Generative AI SDK
 
-  
+---
+
+##Project Implementation
+### 1. Start the Backend Server
+Run the FastAPI backend server:
+
+```bash
+uvicorn back:app --host 0.0.0.0 --port 8000
+
+
+
