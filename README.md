@@ -69,7 +69,7 @@ Access the app in your browser at http://localhost:8501.
 
 ### Output
 
-[Watch the video](https://drive.google.com/file/d/1040v54fqfc9ebPw7GlA7Br0-1LVb1ZeX/view?usp=sharing)
+![Watch the video](Results/vdhap11-ezgif.com-video-to-gif-converter.gif)
 
 
 
