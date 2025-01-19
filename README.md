@@ -67,10 +67,10 @@ Access the app in your browser at http://localhost:8501.
 ### Output
 ### Output
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/uc?id=1040v54fqfc9ebPw7GlA7Br0-1LVb1ZeX" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Output
+
+[Watch the video](https://drive.google.com/file/d/1040v54fqfc9ebPw7GlA7Br0-1LVb1ZeX/view?usp=sharing)
+
 
 
 
