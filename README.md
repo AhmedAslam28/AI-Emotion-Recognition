@@ -63,10 +63,10 @@ Access the app in your browser at http://localhost:8501.
 
 ### 4. Postman for API Testing
 - Setup API Requests
-  Predict Endpoint:
-  Method: POST
-  URL: http://localhost:8000/predict
-  Body: Set to form-data and upload an image file.
+Predict Endpoint:
+Method: POST
+URL: http://localhost:8000/predict
+Body: Set to form-data and upload an image file.
 - Chat Endpoint:
 Method: POST
 URL: http://localhost:8000/chat
@@ -91,11 +91,11 @@ Body: Set to raw with application/json format and provide a JSON payload:
   Provide book recommendations and empathetic advice.
 
 ## References
-    Dataset: FER-2013 Emotion Dataset
+   ' Dataset: FER-2013 Emotion Dataset
     Documentation:
-    TensorFlow
-    FastAPI
-    Streamlit
-    Google Generative AI
+    https://www.tensorflow.org/
+    https://fastapi.tiangolo.com/
+    https://streamlit.io/
+    https://cloud.google.com/ai/generative-ai '
 
 
