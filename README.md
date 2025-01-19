@@ -42,7 +42,7 @@ This project integrates an end-to-end emotion recognition system using a combina
 
 ---
 
-##Project Implementation
+###Project Implementation
 ### 1. Start the Backend Server
 Run the FastAPI backend server:
 
