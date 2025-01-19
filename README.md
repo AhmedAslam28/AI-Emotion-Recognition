@@ -50,7 +50,7 @@ Run the FastAPI backend server:
 uvicorn back:app --host 0.0.0.0 --port 8000
 ```
 The backend will be available at http://localhost:8000.
-![Alt Text](Results/strrun.png)
+![Alt Text](Results/backcon.png)
 
 ### 2. Start the Frontend Application
 Run the Streamlit frontend application:
@@ -60,7 +60,11 @@ streamlit run lateststr.py
 ```
 Access the app in your browser at http://localhost:8501.
 
+![Alt Text](Results/strrun.png)
+
 ### 3. OUPTPUT
+
+![Alt Text](Results/vdhap(1).mp4)  
 
 ### 4. Postman for API Testing
 - Setup API Requests
