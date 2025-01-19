@@ -42,7 +42,7 @@ This project integrates an end-to-end emotion recognition system using a combina
 
 ---
 
-###Project Implementation
+## Project Implementation
 ### 1. Start the Backend Server
 Run the FastAPI backend server:
 
@@ -81,7 +81,7 @@ Body: Set to raw with application/json format and provide a JSON payload:
 - Send Requests
   Test the API endpoints by sending requests and verifying responses.
 
-###5. Example Workflow
+### 5. Example Workflow
 - Frontend:
   Upload an image to detect emotion.
   View predicted emotion and confidence.
@@ -90,7 +90,7 @@ Body: Set to raw with application/json format and provide a JSON payload:
   Process images to predict emotions.
   Provide book recommendations and empathetic advice.
 
-### 6.References
+## References
     Dataset: FER-2013 Emotion Dataset
     Documentation:
     TensorFlow
