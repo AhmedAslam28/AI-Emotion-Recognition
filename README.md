@@ -48,6 +48,37 @@ Run the FastAPI backend server:
 
 ```bash
 uvicorn back:app --host 0.0.0.0 --port 8000
+```
+The backend will be available at http://localhost:8000.
 
+### 2. Start the Frontend Application
+Run the Streamlit frontend application:
+
+```bash
+streamlit run lateststr.py
+```
+Access the app in your browser at http://localhost:8501.
+
+### 3. OUPTPUT
+
+### 4. Postman for API Testing
+- Setup API Requests
+  Predict Endpoint:
+  Method: POST
+  URL: http://localhost:8000/predict
+  Body: Set to form-data and upload an image file.
+- Chat Endpoint:
+Method: POST
+URL: http://localhost:8000/chat
+Body: Set to raw with application/json format and provide a JSON payload:
+```json
+{
+  "message": "TEXT",
+  "emotion": "TEXT",
+  "confidence": 0
+}
+```
+- Send Requests
+  Test the API endpoints by sending requests and verifying responses.
 
 
