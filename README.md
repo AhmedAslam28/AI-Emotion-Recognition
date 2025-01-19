@@ -81,4 +81,21 @@ Body: Set to raw with application/json format and provide a JSON payload:
 - Send Requests
   Test the API endpoints by sending requests and verifying responses.
 
+###5. Example Workflow
+- Frontend:
+  Upload an image to detect emotion.
+  View predicted emotion and confidence.
+  Get book recommendations and manage emotions via chat.
+- Backend:
+  Process images to predict emotions.
+  Provide book recommendations and empathetic advice.
+
+### 6.References
+    Dataset: FER-2013 Emotion Dataset
+    Documentation:
+    TensorFlow
+    FastAPI
+    Streamlit
+    Google Generative AI
+
 
