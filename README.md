@@ -50,7 +50,7 @@ Run the FastAPI backend server:
 uvicorn back:app --host 0.0.0.0 --port 8000
 ```
 The backend will be available at http://localhost:8000.
-![Alt Text]()
+![Alt Text](Results/strrun.png)
 
 ### 2. Start the Frontend Application
 Run the Streamlit frontend application:
