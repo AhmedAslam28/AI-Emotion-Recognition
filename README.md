@@ -64,7 +64,11 @@ Access the app in your browser at http://localhost:8501.
 
 ### 3. OUPTPUT
 
-![Alt Text](Results/vdhap(1).mp4)  
+<video width="640" height="360" controls>
+  <source src="Results/vdhap(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ### 4. Postman for API Testing
 - Setup API Requests
