@@ -69,7 +69,7 @@ Access the app in your browser at http://localhost:8501.
 
 ### Output
 
-![Watch the video](Results/vdhap11-ezgif.com-video-to-gif-converter.gif)
+![Watch the video](Results/Untitledvideo-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif)
 
 
 
