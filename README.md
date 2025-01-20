@@ -69,7 +69,12 @@ Access the app in your browser at http://localhost:8501.
 
 
 
+
 ![Watch the video](Results/2nddemo1.gif)
+
+
+
+![Alt Text](Results/backend_console.png)
 
 
 ### 4. Postman for API Testing
@@ -91,6 +96,10 @@ Access the app in your browser at http://localhost:8501.
 ```
 - Send Requests
   Test the API endpoints by sending requests and verifying responses.
+
+![Alt Text](Results/postpred.png)
+
+![Alt Text](Results/postchat.png)
 
 ### 5. Example Workflow
 - Frontend:
