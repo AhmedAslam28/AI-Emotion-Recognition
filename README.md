@@ -64,10 +64,6 @@ Access the app in your browser at http://localhost:8501.
 
 ### 3. OUPTPUT
 
-### Output
-### Output
-
-### Output
 
 ![Watch the video](Results/Untitledvideo-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif)
 
