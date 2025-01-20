@@ -103,12 +103,12 @@ Access the app in your browser at http://localhost:8501.
 
 ### 5. Example Workflow
 - Frontend:
-  Upload an image to detect emotion.
-  View predicted emotion and confidence.
-  Get book recommendations and manage emotions via chat.
+  - Upload an image to detect emotion.
+  - View predicted emotion and confidence.
+  - Get book recommendations and manage emotions via chat.
 - Backend:
-  Process images to predict emotions.
-  Provide book recommendations and empathetic advice.
+  - Process images to predict emotions.
+  - Provide book recommendations and empathetic advice.
 
 ---
 
