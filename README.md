@@ -69,7 +69,7 @@ Access the app in your browser at http://localhost:8501.
 
 
 
-![Watch the video](Results/Untitledvideo-MadewithClipchamp1-ezgif.com-video-to-gif-converter (1).gif)
+![Watch the video](Results/2nddemo1.gif)
 
 
 ### 4. Postman for API Testing
