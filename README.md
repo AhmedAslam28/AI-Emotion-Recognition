@@ -50,6 +50,7 @@ Run the FastAPI backend server:
 uvicorn back:app --host 0.0.0.0 --port 8000
 ```
 The backend will be available at http://localhost:8000.
+
 ![Alt Text](Results/backcon.png)
 
 ### 2. Start the Frontend Application
@@ -74,7 +75,6 @@ Access the app in your browser at http://localhost:8501.
 
 
 
-![Alt Text]("Results/backend-console.png")
 
 
 ### 4. Postman for API Testing
@@ -109,6 +109,8 @@ Access the app in your browser at http://localhost:8501.
 - Backend:
   Process images to predict emotions.
   Provide book recommendations and empathetic advice.
+
+---
 
 ## References
     Dataset: FER-2013 Emotion Dataset
