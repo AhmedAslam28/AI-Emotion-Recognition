@@ -1,7 +1,5 @@
-# AI-Emotion-Recognition
+# AI-Emotion-Recognition System
 Emotion Recognition with AI Assistant
-# Emotion Recognition System
-
 This project integrates an end-to-end emotion recognition system using a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks, a FastAPI backend for emotion detection, and a Streamlit frontend for user interaction. It processes grayscale images to classify emotions into seven categories, provides book recommendations, AI-powered advice, and an interactive chat interface.
 
 ---
